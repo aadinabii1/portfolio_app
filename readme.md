@@ -100,7 +100,8 @@ portfolio_app/
 
 ## 📸 Screenshots
 
-(Add screenshots of your app here once deployed)
+<img width="1277" height="334" alt="image" src="https://github.com/user-attachments/assets/b87c1ab1-ecaf-4487-8ecd-d575747a9d5b" />
+
 
 ---
 
@@ -112,3 +113,4 @@ portfolio_app/
 * [LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/)
 
 ---
+
